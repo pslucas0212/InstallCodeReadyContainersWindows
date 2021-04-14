@@ -6,7 +6,7 @@ Follow the instructions [Create an OpenShift cluster](https://cloud.redhat.com/o
 
 - On the **Create an Openshift cluster** go to step 1. **What you need to get started**.  In the **CodeReady Containers archive** section chose your OS (Windows) and click the **Download CodeReady Containers** button to start the download.
 
-- In step 1. of the **Create an Openshift cluster** also click the **Download Pull Secret** button to download the secret needed to start your CodeReady Containers instance.  I placed the pull-secret.txt file in the C:\ Users\<Home Dir>\Documents\crc directory
+- In step 1. of the **Create an Openshift cluster** page also click the **Download Pull Secret** button to download the secret needed to start your CodeReady Containers instance.  I placed the pull-secret.txt file in the C:\ Users\<Home Dir>\Documents\crc directory
 
 - To install crc, I created a directory called C:\Program Files (x86)\crc, copied the crc.exe file from the Downloads directory, and added the directory to the PATH statement.
 
