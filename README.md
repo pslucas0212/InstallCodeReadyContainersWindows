@@ -2,6 +2,8 @@
 
 Note: Windows 10 Pro is required to run CodeReady Containers as Hyper-v support is required
 
+- Enable Hyper-v on Windows 10 Pro. 1. In the search field next to the Windows icon, type 'Turn Windows Features onr or off' and click the Turn Windows Features onr or off (control panel) option in the popup dialog box. 2. In the Windows Features dialog, click the check box next to the Hyper-V option to enable Hyper-V.  3. Restart windows after Hyper-V has been enabled.
+
 Follow the instructions [Create an OpenShift cluster](https://cloud.redhat.com/openshift/create/local) to install CodeReady Containers (CRC). Chose the "local" tab and select your OS.
 
 - When you click the **Create an Openshift cluster** link, you will be redirected to login with your Red Hat customer portal user ID and password.  If you don't have one, click this link [Create one now](https://sso.redhat.com/auth/realms/redhat-external/login-actions/registration?client_id=cloud-services&tab_id=Y7oLs1FmAqY) to create a Red Hat customer portal user ID and password.
